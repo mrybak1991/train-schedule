@@ -1,0 +1,25 @@
+html,body{
+    height:100%;
+}
+
+body{
+    background-image: url("../images/30th-street-station-02.jpg");
+    background-position: center center;
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size:  cover;
+    background-color: #999;
+    color: black;
+    text-emphasis: 100px;
+    
+}
+
+.jumbotron{
+    margin-top: 10px;
+    background: lightgrey;
+    opacity: .7;
+}
+
+.card{
+    opacity: .9;
+}
